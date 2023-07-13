@@ -9,7 +9,7 @@ POC para criação de um Data Lake para o desafio
 
   ## 2) Lógica
 
-  Como a ingesão de dados envolvia apenas dados estruturados, optei por utiizar o spark como framework de etl or ter muita familiaridade com a linguagem **Python**, o 
+  Como a ingestão de dados envolvia apenas dados estruturados, optei por utilizar o spark como framework de etl por ter muita familiaridade com a linguagem **Python**, o 
 desenvolvimento do projeto foi feito utilizando **Spark SQL**.
 
   ## 3) Procedimentos para execução;
